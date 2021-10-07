@@ -1,0 +1,14 @@
+C:\Users\nijat\source\repos\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+C:\Users\nijat\source\repos\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+C:\Users\nijat\source\repos\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+C:\Users\nijat\source\repos\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+C:\Users\nijat\source\repos\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+C:\Users\nijat\source\repos\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\nijat\source\repos\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.AssemblyReference.cache
+C:\Users\nijat\source\repos\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nijat\source\repos\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+C:\Users\nijat\source\repos\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+C:\Users\nijat\source\repos\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+C:\Users\nijat\source\repos\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+C:\Users\nijat\source\repos\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\nijat\source\repos\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache
